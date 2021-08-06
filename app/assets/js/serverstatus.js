@@ -29,7 +29,7 @@ exports.getStatus = function(address, port = 25565){
                 code: 'ETIMEDOUT',
                 errno: 'ETIMEDOUT',
                 address,
-                port
+                port 
             })
         })
 

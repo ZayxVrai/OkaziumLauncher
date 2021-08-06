@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Okazium",
         "smallImageKey": "seal-circle"
     },
     "java": {
@@ -11,16 +11,16 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
+            "id": "Okazium",
+            "name": "Okazium Serveur Principal",
+            "description": "Main Okazium server. Connect to enter the Realm.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "address": "37.44.238.20",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "Okazium Production Server",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
@@ -425,16 +425,16 @@
             ]
         },
         {
-            "id": "WesterosCraftTest-1.11.2",
-            "name": "WesterosCraft Test Server",
+            "id": "Okazium",
+            "name": "WOkazium test",
             "description": "Main testing server. Experimental changes are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com:4444",
+            "address": "37.44.238.20:26202",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Test Server",
-                "largeImageText": "WesterosCraft Test Server",
+                "largeImageText": "Okazium Test Server",
                 "largeImageKey": "server-test"
             },
             "mainServer": false,
@@ -839,16 +839,16 @@
             ]
         },
         {
-            "id": "WesterosCraftTest-1.12.2",
-            "name": "WesterosCraft 1.12.2 Test Server",
+            "id": "OkaziumTest-1.12.2",
+            "name": "Okazium 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "4.2.1",
-            "address": "mc.westeroscraft.com:4445",
+            "address": "37.44.238.20:26202",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Test Server",
-                "largeImageText": "WesterosCraft 1.12.2 Test Server",
+                "largeImageText": "Okazium 1.12.2 Test Server",
                 "largeImageKey": "server-test"
             },
             "mainServer": false,
@@ -1270,16 +1270,16 @@
             ]
         },
         {
-            "id": "WesterosCraftTest-1.13.2",
-            "name": "WesterosCraft 1.13.2 Test Server",
+            "id": "OkaziumTest-1.13.2",
+            "name": "Okazium 1.13.2 Test Server",
             "description": "Tests for our version change to 1.13.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "5.0.0",
-            "address": "mc.westeroscraft.com:4445",
+            "address": "37.44.238.20:26202",
             "minecraftVersion": "1.13.2",
             "discord": {
                 "shortId": "1.13.2 Test Server",
-                "largeImageText": "WesterosCraft 1.13.2 Test Server",
+                "largeImageText": "Okazium 1.13.2 Test Server",
                 "largeImageKey": "server-test"
             },
             "mainServer": false,

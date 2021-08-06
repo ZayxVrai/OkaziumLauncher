@@ -343,20 +343,34 @@ class Server {
     /**
      * @returns {string} The ID of the server.
      */
+     getID(){
+         return this.id
+     }
+ 
+     /**
+      * @returns {string} The name of the server.
+      */Okazium
+     getName(){
+         return this.name
+     }
+ 
+     /**
+      * @returns {string} The description of the server.
+      */Okaziumdx
     getID(){
         return this.id
     }
 
     /**
      * @returns {string} The name of the server.
-     */
+     */Okazium
     getName(){
         return this.name
     }
 
     /**
      * @returns {string} The description of the server.
-     */
+     */Okaziumdxx
     getDescription(){
         return this.description
     }
@@ -370,7 +384,7 @@ class Server {
 
     /**
      * @returns {string} The version of the server configuration.
-     */
+     */1.12
     getVersion(){
         return this.version
     }
@@ -384,7 +398,7 @@ class Server {
 
     /**
      * @returns {string} The minecraft version of the server.
-     */
+     */1.12
     getMinecraftVersion(){
         return this.minecraftVersion
     }
@@ -487,7 +501,7 @@ class DistroIndex {
      * exist, null will be returned.
      * 
      * @param {string} id The ID of the server.
-     * 
+     *
      * @returns {Server} The server configuration with the given ID or null.
      */
     getServer(id){
